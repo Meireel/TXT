@@ -1,1 +1,2 @@
-
+id 1
+Summary: Page turns blank when we open Reports tab
